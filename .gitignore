@@ -1,0 +1,11 @@
+*.pem
+*.txt
+*.docx
+*.csv
+
+/.terraform
+*.hcl
+*.tfstate
+*.backup
+
+variables.tf
